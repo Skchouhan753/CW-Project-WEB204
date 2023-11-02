@@ -1,13 +1,13 @@
-.container {
+.shahbaz {
   width: 1440px;
   height: 352px;
   background-color: #ffdd78;
   display: flex;
 }
-.container .left {
+.shahbaz .left {
   width: 48%;
 }
-.container .left p {
+.shahbaz .left p {
   margin-top: 79px;
   padding-left: 135px;
   margin-bottom: 0%;
@@ -20,7 +20,7 @@
   letter-spacing: 4.8px;
   text-transform: uppercase;
 }
-.container .left h3 {
+.shahbaz .left h3 {
   padding-left: 135px;
   margin-top: 21px;
   font-family: DM Serif Display;
@@ -29,18 +29,18 @@
   font-weight: 400px;
   line-height: 64px;
 }
-.container .right {
+.shahbaz .right {
   width: 48%;
   margin-top: 160px;
 }
-.container .right #search {
+.shahbaz .right #search {
   width: 370px;
   height: 48px;
   border-radius: 5px;
   border: 1px solid #DADADA;
   background: #FFF;
 }
-.container .right button {
+.shahbaz .right button {
   width: 170px;
   height: 48px;
   border-radius: 5px;
@@ -48,4 +48,4 @@
   color: white;
   border: none;
   margin-left: 30px;
-}/*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=search.css.map */
