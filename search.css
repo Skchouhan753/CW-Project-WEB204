@@ -1,0 +1,51 @@
+.container {
+  width: 1440px;
+  height: 352px;
+  background-color: #ffdd78;
+  display: flex;
+}
+.container .left {
+  width: 48%;
+}
+.container .left p {
+  margin-top: 79px;
+  padding-left: 135px;
+  margin-bottom: 0%;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  /* 150% */
+  letter-spacing: 4.8px;
+  text-transform: uppercase;
+}
+.container .left h3 {
+  padding-left: 135px;
+  margin-top: 21px;
+  font-family: DM Serif Display;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400px;
+  line-height: 64px;
+}
+.container .right {
+  width: 48%;
+  margin-top: 160px;
+}
+.container .right #search {
+  width: 370px;
+  height: 48px;
+  border-radius: 5px;
+  border: 1px solid #DADADA;
+  background: #FFF;
+}
+.container .right button {
+  width: 170px;
+  height: 48px;
+  border-radius: 5px;
+  background-color: #434CCC;
+  color: white;
+  border: none;
+  margin-left: 30px;
+}/*# sourceMappingURL=styles.css.map */
