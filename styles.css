@@ -1,0 +1,312 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#container {
+  width: 100%;
+  /* border: 1px solid red; */
+}
+.navbar {
+  background-color: rgb(67, 76, 204);
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  /* padding: 50px; */
+  /* width:1440px; */
+  width: 100%;
+  height: 80px;
+}
+.navbar h3 {
+  width: 102px;
+  height: 48px;
+  margin-top: 16px;
+  margin-left: 135px;
+  /* bottom: 16px; */
+  font-family: DM Serif Display;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-left: 40%;
+}
+
+/* .navbar span { */
+/* display: flex; */
+/* justify-content: space-between; */
+/* align-items: center; */
+/* gap: 10px; */
+/* width: 324px; */
+/* height: 24px; */
+/* margin-top: 28px; */
+/* margin-left: 771px; */
+/* margin-right: 345px; */
+/* letter-spacing: 0px; */
+
+/* color: var(--Text_White, #fff); */
+/* text-align: right; */
+/* margin-right: 135px; */
+/* margin-left: 534px; */
+/* font-family: DM Sans; */
+/* font-size: 16px; */
+/* font-style: normal; */
+/* font-weight: 700; */
+/* line-height: 150%; 150% 24px */
+/* } */
+.navbar button {
+  background-color: transparent;
+  color: #ffffff;
+  width: 170px;
+  height: 48px;
+  margin-top: 16px;
+  margin-right: 10%;
+  /* margin-left: 135px;  */
+  margin-left: 40px;
+  border: 1px solid #7e7676;
+}
+.blueBox {
+  background-color: rgb(67, 76, 204);
+  color: #ffffff;
+  width: 100%;
+  height: 224px;
+  color: var(--Text_White, #fff);
+  text-align: center;
+  font-family: DM Serif Display;
+  font-style: normal;
+  font-weight: 400;
+}
+.blueBox h1 {
+  font-size: 72px;
+  line-height: 111.111%; /* 111.111% 80px*/
+  /* width: 280px; */
+  /* width:40%; */
+  /* height: 80px; */
+  margin-top: 47px;
+  margin: auto;
+}
+.blueBox p {
+  color: #ffffff;
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 160% 32px*/
+  margin-bottom: 55px;
+}
+.section {
+  width: 100%;
+  height: 2384px;
+}
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  align-items: baseline;
+  flex-shrink: 0;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 24px 150% */
+}
+.section > p {
+  margin-top: 47px;
+}
+.section span {
+  display: flex;
+  gap: 32px;
+  width: 403px;
+  margin-top: 47px;
+}
+.section span > p {
+  font-family: DM Sans;
+
+  color: var(--text-black-50, rgba(0, 0, 0, 0.5));
+}
+.Dyellow {
+  width: 87.5%;
+  /* width:1170px; */
+  /* position: relative; */
+  height: 512px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  /* background: #F1B505; */
+  margin: auto;
+  margin-top: 41px;
+  background-image: url("./images/girl.png");
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+
+  flex-shrink: 0;
+  color: #ffffff;
+}
+/* .Dyellow p {
+  position: relative;
+  top: 30%;
+  left:10%;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+/* } */
+.Dyellow > div {
+  position: relative;
+  width: 30%;
+  top: 14%;
+  left: 10%;
+  height: 40%;
+}
+.Dyellow > div p {
+  margin-bottom: 21px;
+  font-size: 16px;
+}
+.Dyellow > div h2 {
+  font-size: 56px;
+}
+.Dyellow button {
+  width: 170px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-top: 36px;
+  background-color: transparent;
+  border: 0.5px solid #ffffff;
+  color: #ffffff;
+}
+.gridLayout {
+  display: grid;
+  grid-template-columns: repeat(2, 42.5%);
+  grid-template-rows: repeat(2, 512px);
+  justify-content: center;
+  gap: 32px;
+  margin-top: 32px;
+ 
+}
+.divText {
+  border-radius: 5px;
+} 
+.divText div {
+  position: relative;
+  width: 30%;
+  top: 15%;
+  left: 10%;
+  height: 40%;
+  color: #ffffff;
+}
+.divText > div p {
+  margin-bottom: 21px;
+  font-size: 16px;
+}
+.divText > div h2 {
+  font-size: 24px;
+}
+.divText button {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-top: 36px;
+  background-color: transparent;
+  border: 0.5px solid #ffffff;
+  color: #ffffff;
+}
+.redDiv {
+  background-image: url("./images/statue.png");
+  background-position: center;
+  background-size: cover;
+}
+.blueDiv {
+  background-image: url("./images/dog.png");
+  background-position: center;
+  background-size: cover;
+}
+.yellowDiv {
+  background-image: url("./images/robo.png");
+  background-position: center;
+  background-size: cover;
+}
+.voiletDiv {
+  background-image: url("./images/pot.png");
+  background-position: center;
+  background-size: cover;
+}
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 5%;
+}
+.buttons button {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+hr{
+  margin-top: 80px;
+  width:100%;
+  margin-bottom: 80px;
+}
+.midSection {
+  width:100%;
+  display: flex;
+  justify-content: center;
+  /* border: 1px solid rgb(179, 13, 13) */
+}
+.midSection div{
+  /* border: 1px solid rgb(13, 255, 0); */
+  width:20%;
+  margin-right: 20px;
+  
+}
+.midSection > div span{
+  width: 45px;
+  height: 45px;
+  padding: 10px;
+  border: 1px solid rgb(142, 121, 121);
+  border-radius: 5px;
+}
+.midSection > div:first-child h5 {
+  color: var(--Text_Black, #000);
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  /* width:425px; */
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 4.8px;
+  text-transform: uppercase;
+  margin-bottom: 33px;
+  /* border: 1px solid red; */
+}
+.midSection > div:first-child h4 {
+  color: var(--Text_Black, #000);
+  font-family: DM Serif Display;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 133.333% */
+  /* width: 275px; */
+  /* border: 1px solid red; */
+}
+.midSection > div > img{
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+@media only screen and (max-width: 600px) {
+  .midSection {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
