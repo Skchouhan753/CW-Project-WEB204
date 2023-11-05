@@ -1,0 +1,40 @@
+.lastpart {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  background: rgb(245, 246, 252);
+  box-sizing: border-box;
+  p {
+    color: $primary-color;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  #para1 {
+    margin-left: 10%;
+  }
+  #para2 {
+    margin-right: 10%;
+  }
+}
+
+@media all and (max-width: 769px) {
+  .lastpart {
+    width: 100%;
+    display: block;
+    p {
+      color: $primary-color;
+      font-family: DM Sans;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 24px;
+    }
+    #para2 {
+      margin-left: 10%;
+    }
+  }
+}

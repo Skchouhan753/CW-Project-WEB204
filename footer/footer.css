@@ -16,6 +16,7 @@
     display: flex;
     justify-content: center;
     padding: 5%;
+    /* background-color: rgb(225, 226, 232); */
     background-color: rgb(225, 226, 232);
   }
   .foot > div {
@@ -25,6 +26,7 @@
     width: 30%;
     /* border:1px solid red; */
     color: rgb(112, 113, 116);
+    /* background-color: rgb(225, 226, 232); */
   }
 
   .footBox h1 + p {
