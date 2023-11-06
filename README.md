@@ -13,7 +13,7 @@ This is a collarabative project which was made by group of 5 team members and th
 # Sonali Burman
 
 
-Deployed link - https://app.netlify.com/sites/rainbow-donut-3d79d2/deploys/6547cf56e8bd086e460e9ec2
+Deployed link - https://6547cf56e8bd086e460e9ec2--rainbow-donut-3d79d2.netlify.app/
 
 # Project Logo -
 ![LOGO (1)](https://github.com/Skchouhan753/CW-Project-WEB204/assets/104707355/51c25c43-3c19-4269-9e1f-19153cc2191e)
