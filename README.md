@@ -3,9 +3,9 @@ adaptable-oven-8035
 
 # About
 
-This Project is built using HTML and SASS. The name of this project is adaptable even. We have made this project in our construction week in the span of 5 days. This project help us to improve our skills by using it practically which we have learned in our masai journey.
+This Project is built using HTML and SASS and the name of this project is adaptable even. We have made this project in our construction week in the span of 5 days. This project help us to improve our skills by using it practically which we have learned in our masai journey.
 
-This is a collarabative project which was made by group of 5 team members and the name of team members.
+This is a collarabative project which was made by group of 5 team members and the name of team members are.
 # Subhash Kumar Chouhan
 # Raushan Singh
 # Shabaz Ahmed
