@@ -7,7 +7,7 @@ This Project is built using HTML and SASS and the name of this project is adapta
 
 This is a collarabative project which was made by group of 5 team members and the name of team members are.
 # Subhash Kumar Chouhan
-# Raushan Singh
+# Raushan Raj Singh
 # Shabaz Ahmed
 # Yogesh Kushawaha
 # Sonali Burman
