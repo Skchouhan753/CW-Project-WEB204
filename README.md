@@ -12,10 +12,12 @@ This is a collarabative project which was made by group of 5 team members and th
 # Yogesh
 # Sonali Burman
 
+
 Deployed link - https://app.netlify.com/sites/rainbow-donut-3d79d2/deploys/6547cf56e8bd086e460e9ec2
 
-# Logo -
-![Project Logo](https://github.com/Skchouhan753/CW-Project-WEB204/assets/104707355/70403711-dc9f-4c3a-a56f-3747bdb98f1d)
+# Project Logo -
+![Project Logo (1)](https://github.com/Skchouhan753/CW-Project-WEB204/assets/104707355/61422a3e-bb62-4722-b923-e6e8c7cc8b92)
+
 
 # Preview of Portfolio Page
 
