@@ -23,10 +23,10 @@ To get started with this project. You need to have a basic understanding of HTML
 * A text editor (e.g. VS Code, Sublime Text)
 * Basic Knowledge of HTML,CSS and SASS
 # Installation
-Step 1: Clone the repository to your local system
-Step 2: Open the repository in your local system
-Step 3: Open index.html file in your bowser to see preview or you can use live server extenion in your vs code
-Step 4: Use styles.SASS file for styling your project and use SASS commands
+* Step 1: Clone the repository to your local system
+* Step 2: Open the repository in your local system
+* Step 3: Open index.html file in your bowser to see preview or you can use live server extenion in your vs code
+* Step 4: Use styles.SASS file for styling your project and use SASS commands
 
 # Project Logo -
 ![LOGO (1)](https://github.com/Skchouhan753/CW-Project-WEB204/assets/104707355/51c25c43-3c19-4269-9e1f-19153cc2191e)
