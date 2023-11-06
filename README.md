@@ -5,11 +5,11 @@
 Welcome to our project adaptable-oven. This Project is built using HTML,CSS and the power of SASS to create an enagging user experience design. We have made this project in our construction week in the span of 5 days. This project help us to improve our skills by using it practically which we have learned in our masai journey.
 
 This is a collarabative project which was made by group of 5 team members and the name of team members are.
-# Subhash Kumar Chouhan
-# Raushan Raj Singh
-# Shahbaz Ahmad
-# Yogesh
-# Sonali Burman
+* Subhash Kumar Chouhan
+* Raushan Raj Singh
+* Shahbaz Ahmad
+* Yogesh
+* Sonali Burman
 
 # Features
 * SASS Powered: Efficiently style with SASS for scalable and maintable code.
