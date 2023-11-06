@@ -9,7 +9,7 @@ This is a collarabative project which was made by group of 5 team members and th
 # Subhash Kumar Chouhan
 # Raushan Raj Singh
 # Shahbaz Ahmad
-# Yogesh Kushawaha
+# Yogesh
 # Sonali Burman
 
 Deployed link - https://app.netlify.com/sites/rainbow-donut-3d79d2/deploys/6547cf56e8bd086e460e9ec2
